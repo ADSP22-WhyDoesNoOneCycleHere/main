@@ -1,3 +1,4 @@
+#Postgresql installation in Ubuntu 18.04
 1. sudo apt-get update && sudo apt-get upgrade
 2. sudo apt install postgresql postgresql-contrib postgis 
 3. sudo service postgresql start
